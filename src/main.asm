@@ -1,6 +1,5 @@
 ; I get help from this links thanks a lot!
 ; https://stackoverflow.com/questions/16525934/how-to-clear-console-window-in-nasm
-; https://stackoverflow.com/questions/36090659/how-to-change-or-set-background-color-in-8086-assembly
 
 [org 0x7c00]
 
